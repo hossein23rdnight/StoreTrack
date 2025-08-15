@@ -23,8 +23,7 @@
 </div>
 <br />
 
-![StoreTrack Dashboard](./Screenshot from 2025-08-15 17-47-09.png)
-
+![StoreTrack Dashboard](./dashboard-preview.png)
 
 ## 📖 About The Project
 
