@@ -23,7 +23,7 @@
 </div>
 <br />
 
-![StoreTrack Dashboard](/home/hossein-haghjoo/Downloads/net_proj/priyans/stockflow-main/Screenshot from 2025-08-15 17-47-09.png)
+![StoreTrack Dashboard](./Screenshot from 2025-08-15 17-47-09.png)
 
 
 ## 📖 About The Project
@@ -130,7 +130,3 @@ To get a local copy up and running, follow these simple steps.
     Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ---
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
