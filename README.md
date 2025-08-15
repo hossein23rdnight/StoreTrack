@@ -54,6 +54,8 @@ This application includes a wide range of features to provide a comprehensive in
     * Automatically logs stock **IN** when a new product is created.
 
 ---
+![StoreTrack Dashboard](./order.png)
+---
 
 ## 🛠️ Tech Stack
 
