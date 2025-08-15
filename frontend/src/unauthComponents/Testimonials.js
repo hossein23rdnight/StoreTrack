@@ -13,7 +13,7 @@ const testimonialData = [
         author: "Mike R., Warehouse Lead"
     },
     {
-        text: "We used to track everything in spreadsheets. StockFlow has streamlined our entire process. The search and filter on the products page is a lifesaver.",
+        text: "We used to track everything in spreadsheets. StoreTrack has streamlined our entire process. The search and filter on the products page is a lifesaver.",
         author: "Jessica P., Small Business Owner"
     },
     {

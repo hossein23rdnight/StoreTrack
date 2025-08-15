@@ -17,7 +17,7 @@ const LeftNav = () => {
     return (
         <nav className={`bg-gray-800 bg-opacity-30 text-white w-64 h-screen lg:w-[15%] flex flex-col ${collapsed ? 'collapsed' : ''}`}>
             <div className="flex items-center justify-between p-4 border-gray-700 text-black">
-                <h1 className="text-2xl font-bold">StockFlow</h1>
+                <h1 className="text-2xl font-bold">StoreTrack</h1>
                 <button onClick={toggleCollapse} className="focus:outline-none">
                     {collapsed ? (
                         <i className="fas fa-bars"></i>

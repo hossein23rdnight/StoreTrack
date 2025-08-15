@@ -56,7 +56,7 @@ const LoginPage = ({ setIsAuthenticated }) => {
     return (
         <div>
             <div className='fixed w-screen py-4 px-2 bg-gray-900 text-white flex justify-between'>
-                <div className='container mx-auto flex items-center'><h1 className="text-2xl md:text-4xl font-semibold">StockFlow</h1></div>
+                <div className='container mx-auto flex items-center'><h1 className="text-2xl md:text-4xl font-semibold">StoreTrack</h1></div>
             </div>
 
             <div className="flex h-screen ">
