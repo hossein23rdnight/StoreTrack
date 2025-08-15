@@ -23,8 +23,7 @@
 </div>
 <br />
 
-*This is a placeholder. Take a screenshot of your running application (e.g., the dashboard) and replace the image link below.*
-![StoreTrack Dashboard](./StoreTrack-dashboard.png)
+![StoreTrack Dashboard](/home/hossein-haghjoo/Downloads/net_proj/priyans/stockflow-main/Screenshot from 2025-08-15 17-47-09.png)
 
 
 ## 📖 About The Project
